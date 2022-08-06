@@ -1,2 +1,3 @@
-✨ Sou movida pela sede de aprender 💞️ e de poder aplicar estes novos conhecimentos nas várias situações características de desenvolvedor e ciência de dados.  Além disto, sou apaixonada por analisar dados e resolver problemas complexos. 
-Com vários projetos complexos, tornei-me especialista 👀 na prevenção e recuperação de projetos e metas a partir da postura, ética e atitudes orientadas aos resultados 📫 e à integração de equipes.✨ 
+✨ Sou movida pela sede de aprender 💞️ e de poder aplicar estes novos conhecimentos nas várias situações características de desenvolvedor.  Sou apaixonada por linguagem de programação e tenho grande motivação em resolver problemas complexos.
+Conhecimento em Python, HTML, CSS, Machine Learning, javaScript, typeScript Java, React, Angular, Spring, Power BI, Gestão de Projetos. 
+A Lógica é a técnica de encadear pensamentos para atingir determinado objetivo, independente da linguagem, a sequência logica resolve o problema!✨
